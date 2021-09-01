@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+package.json
+yarn.lock
+public/index.html
+src/App.css
+src/App.js
+src/components/directory/directory.components.js
+src/components/directory/directory.styles.scss
+src/components/menu-item/menu-item.components.js
+src/components/menu-item/menu-item.styles.scss
+src/pages/homepage/homepage.component.js
+src/pages/homepage/homepage.styles.scss
